@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/iphone", "destination": "/celulares", "permanent": true },
+    { "source": "/iphone.html", "destination": "/celulares", "permanent": true }
+  ]
+}
